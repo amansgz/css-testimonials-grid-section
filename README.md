@@ -22,7 +22,7 @@ Users should be able to:
 
 ## Live site solution
 
-[Live site](https://amansgz.github.io/css-testimonials-grid-section/). Hosted on GitHub Pages.
+[Live site](https://amansgz.github.io/css-testimonials-grid-section/) hosted on GitHub Pages.
 
 ## Author
 
