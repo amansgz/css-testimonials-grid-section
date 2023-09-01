@@ -1,10 +1,5 @@
-# 👩‍💻 Frontend Mentor - Testimonials Grid Section
+# 👩‍💻 Testimonials Grid Section
 
-Frontend Mentor challenges help you improve your coding skills by building realistic projects. Join to [Frontend Mentor Discord community](https://discord.gg/UAfh3qzhYb)
-
-This is a solution for [Testimonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) challenge.
-
-![Design preview for the Testimonials Grid Section challenge](./styles/images/preview.png)
 
 ## The challenge
 
@@ -20,10 +15,20 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-## Live site solution
 
-[Live site](https://amansgz.github.io/css-testimonials-grid-section/) hosted on GitHub Pages.
 
-## Author
+<div>
+  <h3>
+    <a href= "https://amansgz.github.io/css-testimonials-grid-section/">
+      Live site
+    </a>
+    <span> | </span>
+    <a href= "https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-- Frontend Mentor - [@amansgz](https://www.frontendmentor.io/profile/amansgz)
+![Design preview for the Testimonials Grid Section challenge](./styles/images/preview.png)
+
+This application/site was created as a submission to <a href= "https://www.frontendmentor.io/">Frontend Mentor Challenges</a> 
